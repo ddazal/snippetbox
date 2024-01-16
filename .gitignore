@@ -10,6 +10,10 @@
 !go.sum
 !go.mod
 !*.html
+!*.css
+!*.js
+!*.png
+!*.ico
 
 !README.md
 !LICENSE
